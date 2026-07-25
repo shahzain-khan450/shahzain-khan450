@@ -1,3 +1,4 @@
+![Shahzain Iftikhar Banner](./shahzain-github-banner.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahzain-khan450/shahzain-khan450/main/shahzin.gif" alt="Banner">
 </p><h1 align="center">Hi 👋 I'm Shahzain Iftikhar</h1>
