@@ -87,8 +87,6 @@ availability: Open to full-time roles and freelance Docker/Kubernetes/AWS work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahzain-khan450&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzain-khan450&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" width="35%" />
 
 <img src="https://streak-stats.demolab.com/?user=shahzain-khan450&theme=dark&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=ff9900&currStreakLabel=00ffcc" width="60%" />
 
