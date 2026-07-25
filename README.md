@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahzain-khan450/shahzain-khan450/main/shahzain.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/shahzain-khan450/shahzain-khan450/main/shahzin.png" alt="Banner">
 </p><h1 align="center">Hi 👋 I'm Shahzain Iftikhar</h1>
 <h3 align="center">DevOps Engineer | Cloud Engineer | Site Reliability Engineer</h3>
 
