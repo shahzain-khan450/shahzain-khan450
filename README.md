@@ -18,7 +18,7 @@ I design, automate, and manage scalable cloud infrastructure using Kubernetes, A
 
 - 🌍 Based in Haripur, Khyber Pakhtunkhwa, Pakistan
 - 🎓 Bachelor of AI Operations — EduQual Level 6 (UK Ofqual), Al Nafi International College
-- 🔧 Building production-grade DevOps, Cloud, and Site Reliability Engineering (SRE) solutions using AWS, Kubernetes, Terraform, Docker,      and modern CI/CD practices.
+- 🔧 Building production-grade DevOps, Cloud, and Site Reliability Engineering (SRE) solutions using AWS, Kubernetes, Terraform, Docker,        and modern CI/CD practices.
 - 💼 Freelance DevOps Engineer on Fiverr since Sep 2025
 - 📌 Currently looking for a junior DevOps / Cloud Engineer role
 - 📫 Reach me: shahzainiftikhar29@gmail.com
