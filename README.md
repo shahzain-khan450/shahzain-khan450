@@ -18,7 +18,7 @@ I design, automate, and manage scalable cloud infrastructure using Kubernetes, A
 
 - 🌍 Based in Haripur, Khyber Pakhtunkhwa, Pakistan
 - 🎓 Bachelor of AI Operations — EduQual Level 6 (UK Ofqual), Al Nafi International College
-- 🔧 Building production-style cloud infrastructure through a self-directed 12-project DevOps/Cloud roadmap
+- 🔧 Building production-grade DevOps, Cloud, and Site Reliability Engineering (SRE) solutions using AWS, Kubernetes, Terraform, Docker,      and modern CI/CD practices.
 - 💼 Freelance DevOps Engineer on Fiverr since Sep 2025
 - 📌 Currently looking for a junior DevOps / Cloud Engineer role
 - 📫 Reach me: shahzainiftikhar29@gmail.com
@@ -73,7 +73,7 @@ I design, automate, and manage scalable cloud infrastructure using Kubernetes, A
 | **[Infrastructure as Code — Terraform on AWS](#)** | Reusable Terraform modules (VPC, EC2, S3, IAM) with S3+DynamoDB remote state locking and tflint gates in CI. | Terraform · AWS · tflint |
 | **[AWS Production 3-Tier Web App](#)** | Staged build from Free Tier foundation to production ALB/ASG/ACM/Route53. | AWS · Terraform · Ansible |
 
-*(Replace the `#` links with your real repo URLs once each project has its own repository — then pin your top 6 via "Customize your pins" on your profile.)*
+
 
 ---
 
